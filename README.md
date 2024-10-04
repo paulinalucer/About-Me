@@ -1,3 +1,2 @@
 # About-Me
-Hi, I'm Paulina! Im a UIC computer science student graduating in May of 2027. I enjoy working on projects that challenge me and push the boundaries of my knowledge. 
-While I am still broadening my knowledge, I am looking to use and grow my skills at a chicago - based company.
+Hi, I'm Paulina! I'm a UIC computer science student graduating in May of 2027. I enjoy working on projects that challenge me and expand the extent of my knowledge. While I am still broadening my skills, I am looking to use and grow my knowledge at a chicago based company and accomplish goals that align with my passion for technology and innovation. I’m particularly interested in software development and data analysis, and I strive to contribute to impactful projects that solve real-world problems. I am excited to connect and collaborate with others who share a commitment to growing in the tech space.
